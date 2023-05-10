@@ -1,0 +1,22 @@
+{
+  "name": "client",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite --port 3001",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@vue/reactivity": "^3.2.47",
+    "axios": "^1.4.0",
+    "bootstrap": "^5.2.3",
+    "vee-validate": "^4.9.2",
+    "vue": "^3.2.47"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.1",
+    "sass": "^1.62.1",
+    "vite": "^4.3.4"
+  }
+}
